@@ -1,0 +1,4 @@
+repository "dfs路径解析@gossip10000@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
